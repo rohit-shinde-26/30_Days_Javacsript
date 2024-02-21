@@ -1,2 +1,2 @@
 # 30_Days_Javacsript
-here we complete the js in in 30 days
+here we complete the js is in 30 days
