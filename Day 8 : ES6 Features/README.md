@@ -17,4 +17,4 @@
 
 ## Activity 5 : Enhanced object litrals
 ### Task 8 : Use enhanced object litrals to create an object with methods and properties and log the object to the console.
-### Task 9 : Create an object with computed property names based on variables and log the object to the console
+### Task 9 : Create an object with computed property names based on variables and log the object to the console.
